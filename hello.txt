@@ -1,1 +1,7 @@
-hi 
+hello
+my
+name
+is
+lee
+jin
+yong
